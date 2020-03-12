@@ -6,11 +6,12 @@
   "dependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.8.7",
+    "@babel/parser": "^7.8.7",
     "@babel/plugin-proposal-object-rest-spread": "^7.8.3",
     "@babel/preset-env": "^7.8.7"
   },
   "scripts": {
     "dev": "babel ./main.js -o ./bundle.js -w",
-    "teste": "babel ./desafio1.js -o ./bundleDesafio1.js -w"
+    "teste": "babel ./desafios/1/exercicio4.js -o ./bundleDesafio1.js -w"
   }
 }
