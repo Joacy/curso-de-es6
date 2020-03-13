@@ -10,13 +10,13 @@ class List {
 }
 
 class TodoList extends List {
-    constructor(){
+    constructor() {
         super();
 
         this.usuario = "Joacy";
     }
 
-    mostraUsuario(){
+    mostraUsuario () {
         console.log(this.usuario);
     }
 }
@@ -28,3 +28,11 @@ document.getElementById("novotodo").onclick = function () {
 }
 
 MinhaLista.mostraUsuario();
+
+import "./desafios/1/exercicio1";
+import "./desafios/1/exercicio2";
+import "./desafios/1/exercicio3";
+import "./desafios/1/exercicio4";
+import "./desafios/1/exercicio5";
+import "./desafios/1/exercicio6";
+import "./desafios/1/exercicio7";
