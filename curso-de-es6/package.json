@@ -12,6 +12,6 @@
   },
   "scripts": {
     "dev": "babel ./main.js -o ./bundle.js -w",
-    "teste": "babel ./desafios/1/exercicio4.js -o ./bundleDesafio1.js -w"
+    "teste": "babel ./desafios/1/exercicio7.js -o ./bundleDesafio1.js -w"
   }
 }
