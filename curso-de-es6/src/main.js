@@ -29,10 +29,11 @@ document.getElementById("novotodo").onclick = function () {
 
 MinhaLista.mostraUsuario();
 
-import "./desafios/1/exercicio1";
-import "./desafios/1/exercicio2";
-import "./desafios/1/exercicio3";
-import "./desafios/1/exercicio4";
-import "./desafios/1/exercicio5";
-import "./desafios/1/exercicio6";
-import "./desafios/1/exercicio7";
+import "../desafios/1/exercicio1";
+import "../desafios/1/exercicio2";
+import "../desafios/1/exercicio3";
+import "../desafios/1/exercicio4";
+import "../desafios/1/exercicio5";
+import "../desafios/1/exercicio6";
+import "../desafios/1/exercicio7";
+import "../desafios/2/exercicio1";
